@@ -264,7 +264,7 @@ svg {
 .hero-bg {
   background:
     linear-gradient(90deg, #091d19bd 0%, #091d1940 60%, #091d190f),
-    url(/assets/background-DcTtNKBi.png) 50% / cover;
+    url(/dongchuan/assets/background-DcTtNKBi.png) 50% / cover;
   animation: 18s ease-out both heroZoom;
   position: absolute;
   inset: 0;
@@ -584,7 +584,7 @@ svg {
   text-align: center;
   background:
     linear-gradient(#102b26b3, #102b26b3),
-    url(/assets/secret-background-Dmew7VTG.jpg) 50% / cover fixed;
+    url(/dongchuan/assets/secret-background-Dmew7VTG.jpg) 50% / cover fixed;
   padding: 120px 20px;
 }
 .quote-mark {
